@@ -1,0 +1,11 @@
+{
+  "name": "projetpadawan",
+  "version": "0.0.1",
+  "description": "projet training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "padawan team",
+  "license": "MIT"
+}
